@@ -1,8 +1,8 @@
 - 👋 Hi, I’m @DeniseSkidmore
 - 👀 I’m interested in medical imaging.
-- 🌱 I’m currently learning Form.IO, Camunda, Auth0/OAuth, .NET 5
+- 🌱 I’m currently learning Python
 - 💞️ I’m looking to collaborate on ... Philips InnerSource
-- 📫 How to reach me denise.skidmore@philips.com
+- 📫 How to reach me denise.skidmore@philips.com or denise.skidmore@gobio.com
 
 <!---
 DeniseSkidmore/DeniseSkidmore is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
